@@ -1,0 +1,21 @@
+{
+  "name": "node-js-bp",
+  "version": "1.0.0",
+  "description": "Asach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "RK",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.11",
+    "nodemailer-pug-engine": "^1.0.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "pug": "^3.0.0",
+    "quickchart-js": "^1.0.2"
+  }
+}
